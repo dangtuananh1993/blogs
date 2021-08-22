@@ -1,0 +1,160 @@
+
+	a{
+	color: black!important;
+	/* text-decoration: none!important; */
+}
+	.category a{
+	color: white!important;
+	width: 30px!important;
+	height: 20px!important;
+	text-decoration: none!important;
+}
+	
+	
+
+	.category a:hover{
+	color: white!important;
+	text-decoration: none;
+	/* text-decoration: none!important; */
+
+}
+	a:hover{
+	color: orange!important;
+	/* text-decoration: none!important; */
+}
+.button{
+	text-color
+}
+
+.navbar-brand{
+	color: red!important;
+}
+h1{
+	font-size: 16px;
+	font-weight: bold!important;
+}
+h2{
+	font-size: 14px;
+	font-weight: bold!important;
+}
+h3{
+	font-size: 14px;
+	font-weight: bold!important;
+}
+h4{
+	font-size: 14px;
+	font-weight: bold!important;
+}
+h5{
+	font-size: 14px;
+	font-weight: bold!important;
+}
+
+.adv-banner {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.first-outstanding{
+	margin-bottom: 10px;
+	width: 800px!important;
+	height: 450px;
+}
+
+.second-outstanding{
+	margin-bottom: 10px;
+	width: 250px!important;
+	height: 150px!important;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.outstanding2 {
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 5px;
+}
+.outstanding1 {
+	
+	padding: 0px;
+}
+.right-oustanding{
+	padding: 0px!important;
+	margin: 0px;
+	/* background: blue; */
+}
+.outstanding1-bt{
+	padding: 0px;
+}
+
+.category-6{
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-right: 10px;
+}
+.img-category-6{
+	margin-bottom: 10px;
+	width: 245px!important;
+	height: 150px!important;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.text-category-6{
+	margin-right: 3px;
+}
+.right-outstanding-line{
+	margin-bottom: 8px;
+	padding: 0px;
+}
+.right-outstanding-line img{
+	width: 150px!important;
+	height: 80px!important;
+}
+.text-right-outstanding-line{
+	margin: 0px;
+	padding: 0px;
+}
+
+.article-title{
+	padding-top: 15px;
+}
+
+.article-title h1{
+	font-weight: bold!important;
+	font-size: 20px;
+}
+
+.article-description{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.article-description h1{
+	font-weight: bold!important;
+	font-size: 16px;
+}
+
+.article-content{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.article-tag {
+	margin-bottom: 55px; 
+}
+.article-tag a {
+	color: blue!important; 
+	font-style: italic;
+}
+
+.home-top-new-week{
+	font-weight: bold;
+	color: blue;
+	font-size: 25px;
+}
+
+.home-top-new-week-li li{
+	color: blue;
+}
+.text_post_id{
+	display: none;
+}

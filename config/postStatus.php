@@ -1,0 +1,6 @@
+<?php
+return [
+	'Checking'=>1,
+	'Approved'=>2,
+	'Rejected'=>3,
+];
